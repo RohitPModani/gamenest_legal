@@ -294,7 +294,7 @@ We welcome your feedback and suggestions. By providing feedback, you grant us th
 
 If you have questions about these Terms, please contact us at:
 
-**Email:** [Your Support Email]  
+**Email:** listist.legal@gmail.com
 **App:** Listist - Settings > About > Contact Support
 
 ## 23. Acknowledgment
