@@ -1,5 +1,3 @@
-# 🧾 Listist Legal Pages
-
 Welcome! Please review the following:
 
 - [Terms & Conditions](./terms)
