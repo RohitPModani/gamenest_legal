@@ -3,8 +3,6 @@ layout: page
 title: Terms & Conditions
 ---
 
-# Terms and Conditions
-
 **Effective Date:** October 11, 2025  
 **Last Updated:** October 11, 2025
 

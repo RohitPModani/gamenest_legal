@@ -3,8 +3,6 @@ layout: page
 title: Privacy Policy
 ---
 
-# Privacy Policy
-
 **Effective Date:** October 11, 2025  
 **Last Updated:** October 11, 2025
 
