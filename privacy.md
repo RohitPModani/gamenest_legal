@@ -17,7 +17,7 @@ The App stores certain data locally on your device using Flutter's "Shared Prefe
 
 #### Game Data
 - Game high scores, statistics, and progress for all 25 games
-- Win/loss/draw records for AI-based games (Tic Tac Toe, Connect 4, Checkers, Reversi, Mancala, Dots & Boxes)
+- Win/loss/draw records for AI-based games (Tic Tac Toe, 4 in a Row, Checkers, Reversi, Mancala, Dots & Boxes)
 - Game preferences and difficulty settings
 - Completed puzzle solutions (Sudoku, Nonogram, etc.)
 
