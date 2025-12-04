@@ -50,11 +50,11 @@ You agree **NOT** to:
 ### 3.1. Game Categories
 Game Nest includes the following categories of games and utilities:
 
-**Brain & Logic Games**: 2048, Sudoku, Word Search, Nonogram, Math Challenge, Memory Match, Minesweeper, Mastermind
+**Brain & Logic Games**: 2048, Sudoku, Word Search, Nonogram, Math Challenge, Memory Match, Minesweeper
 
-**Arcade & Board Games**: Snake, Connect 4, Tic Tac Toe, Ultimate Tic Tac Toe, Checkers, Othello (Reversi), Mancala, Dots & Boxes
+**Arcade & Board Games**: Snake, 4 in a Row, Tic Tac Toe, Ultimate Tic Tac Toe, Checkers, Flip Tiles, Mancala, Dots & Boxes, Chain Reaction
 
-**Reflex Games**: Reaction Timer, Number Rush, Simon Says, Automatic Tap
+**Reflex Games**: Reaction Timer, Number Rush, Memory Echo, Automatic Tap
 
 **Quick Tools**: Coin Flip, Roll the Dice, Random Number Generator, Stopwatch & Timer, Pomodoro Focus
 
